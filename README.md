@@ -14,6 +14,9 @@ Studing Programming and Software Development since I finished my college and I *
 |CSS| Self-taught|
 
 ### *Come be part of my network on Linkedin**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatayoshii/)
+
 - 👋 Hi, I’m @renatayoshii
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
